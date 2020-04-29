@@ -1,4 +1,4 @@
-# GET TWEETS USING HASHTAG OR USERNAME UISNG TWITTER API 
+# Search Tweets 
 
 Fetch tweets using twitter api 
 
