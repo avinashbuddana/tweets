@@ -3,10 +3,10 @@ const tweetCtr = {};
 const twit = require('twit');
 
 const Twitter = new twit({
-  consumer_key: 'qCidal6ZRgqGXWpZsHTkQucFD',
-  consumer_secret: 'oKbdRw357aT5MzRNBjcsujpubtkfj9A7djxYN0jGmIh29xTDHN',
-  access_token: '605099156-aaFRbrwy2dWnKb9JT56Yg5VfMXFfC4WcoMcbz6bt',
-  access_token_secret: '7r8Hvevtdnr4GTXhOgwrMCVg7eDU7yq1r6nlMjxCIGOuD',
+  consumer_key: 'ADD YOUR CONSUMER KEY',
+  consumer_secret: 'ADD YOUR CONSUMER SECRET KEY',
+  access_token: '##ADD YOUR ACCESS TOKEN',
+  access_token_secret: '##ADD YOUR TWITTER ACCESS SECRET',
   timeout_ms: 60 * 1000, // optional HTTP request timeout to apply to all requests.
   // strictSSL: true, // optional - requires SSL certificates to be valid.
 });
