@@ -19,6 +19,7 @@ Install backend packages
 ```
 cd tweet-backend/
 npm i
+create a .env file and copy the sample.env file in it
 ```
 
 Install frontend packages
